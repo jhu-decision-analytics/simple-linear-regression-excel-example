@@ -9,6 +9,7 @@ While we know that student socioeconomic diversity may contribute to better lear
 ## Data Sources
  - [Output work (Excel data sets from in-class examples) used to look at colleges’ role in upward social mobility](https://github.com/jhu-decision-analytics/college-social-mobility-trends)
 - [Innovation Rates by College](https://opportunityinsights.org/data/?geographic_level=100&topic=0&paper_id=0#resource-listing), Opportunity Insights (also [here](https://github.com/jhu-decision-analytics/simple-linear-regression-excel-example/tree/master/fall2020_original_datasets) + [data dictionary](https://opportunityinsights.org/wp-content/uploads/2018/04/Inventors-Codebook-Table-3.pdf))
+- [data dictionary mrc_table10](https://opportunityinsights.org/wp-content/uploads/2018/04/Codebook-MRC-Table-10.pdf)
 
 ## Requirements
 - Microsoft Excel + [Data Analysis ToolPak](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4)
